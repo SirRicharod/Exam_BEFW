@@ -87,6 +87,7 @@ Maak een formulier om een cursus toe te voegen:
 Velden: - title - description - active (checkbox)
 Validatie: - title verplicht, min 3 karakters - description verplicht
 **check the laravel documentation - validation**
+
 ---
 
 ### 5. views + layout (no external)
